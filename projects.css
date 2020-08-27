@@ -1,0 +1,211 @@
+.head
+{
+    text-align: center;
+    margin: 10% 10% 10% 10%;
+    font-family:'Sacramento',cursive;
+    color:darkorange;
+    font-size:4rem;
+    text-shadow: 2px 1px 8px black;
+}
+.image
+{
+    width:300px;
+    height: 500px;
+    margin: 0 10% 0 40%;
+}
+.nav-bar
+  {
+      display:flex;
+    background-color:rgba(245,245,245,0.5);
+  }
+  ul{
+    display:flex;
+    margin-top: 60px;
+    margin-left:800px;
+  list-style-type: none;
+  font-size: larger;
+  font-family:'Montserrat';
+  color:#1b7e6f;
+  
+}
+a{
+  text-decoration: none;
+  color:#1b7e6f;
+  
+}
+li{
+    padding-left :20px;
+}
+.projects
+{
+    border-bottom:5px solid rgb(32, 118, 119);
+}
+.hobbies
+{
+    border-bottom:5px solid rgb(32, 118, 119);
+}
+.me1
+{
+   margin-top:40px;
+   margin-left: 15%;
+   margin-bottom:30px;
+   height:80px;
+   width:80px;
+   border-radius: 100%;
+}
+body
+{
+    background-image: linear-gradient(to right,#6bd1eb ,rgb(245, 222, 131));
+/* background-image:linear-gradient(rgb(24, 129, 179),rgb(175, 229, 231),rgb(84, 196, 204)); */
+/* background-image: url("https://cdn.pixabay.com/photo/2016/11/21/03/56/landscape-1844227_1280.png") ;
+background-size: 100%; */
+
+}
+.zoom {
+    padding: 50px;
+    margin-top: 5rem;
+    transition: transform .2s; /* Animation */
+    width: 300px;
+    height: 200px;
+    margin-left: 35rem;
+ 
+  border: 2px solid black;
+  }
+  .zoom:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+   
+ 
+  }
+  
+          button
+          {
+          /* background-image:linear-gradient(to bottom,#EF7B25, #A24B24);  */
+          background-color:#A24B24 ;
+          border-radius: 7px;
+          border:none;
+          height:50px;
+          width:150px;
+          color:white;
+          font-family: 'Montserrat';
+          font-size: larger;
+          margin-top: -100px;
+          text-align: center;
+         margin-left: -18rem;
+         cursor:pointer;
+         border-style: none;
+          }
+       
+          .simon
+          {
+            height: 1rem;
+            color:#1b7e6f;
+          }
+          .one
+          {
+            background-color:rgb(1, 1, 10);
+            height: 500px;
+           margin-top: -100px;
+          }
+.two
+{
+    height: 500px;
+    background-color:#B0D9DB;
+}
+.three
+{ background-color:#00565C;
+    height: 500px;
+}
+.four
+{
+    background-color: #27808D;
+    height: 500px;
+}
+div{
+    margin-left:-10px;
+    margin-right:-10px;
+}
+.land2
+{
+    margin-left: 37rem;
+    height: 500px;
+    width:300px;
+ 
+}
+.sketching
+{
+    height: 400px;
+    background-color: #664073;
+    margin-top: -7rem;
+    position: relative;
+    z-index: 1;
+}
+.writing
+{
+    height: 400px;
+    background-color: #CF7069;
+    
+}
+.food
+{
+    height: 400px;
+    background-color: #7E495A;
+   
+}
+
+.sketch{
+    padding-top: 100px;
+    padding-left: 900px;
+    font-family: 'Montserrat';
+    color:#F48660;
+}
+.harry
+{
+    border:8px solid #120E25;
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    margin: 100px 400px;
+    position: absolute;
+   
+}
+.blog
+{
+    
+    border:8px solid #57302d;
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    margin:100px 1000px;
+    position: absolute;
+}
+.blog1
+{
+    font-family: 'Montserrat',sans-serif;
+    padding-left:400px ;
+padding-top: 100px;
+}
+.harry1
+{
+    width:1000px;
+    background-color: rgba(202, 76, 57, 0.637);
+    height: 30px;
+
+    border-style: none;
+    border-radius: 40px;
+}
+.hr1
+{
+    background-color: #120E25;
+}
+.hr2
+{
+    background-color: #57302d;
+}
+.hr3
+{
+    background-color: #351d25;
+}
+.harry2
+{
+    border:8px solid #351d25;
+}
